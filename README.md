@@ -1,1 +1,3 @@
 # alura-plus
+
+NO RESPONSIVE!
